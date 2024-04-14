@@ -2,6 +2,9 @@
 
 This is a simple hello world project created using CMake.
 
+DOC TO EXPLAIN
+https://devblogs.microsoft.com/cppblog/quick-tips-for-using-copilot-chat-with-c-in-visual-studio/
+
 ## Requirements
 
 - CMake (version 3.10 or higher)
